@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Nodejs-Blog-App.git
+   git clone https://github.com/EmilGallajov/Nodejs-Blog-App.git
    ```
 2. Go to the folder.
 3. `npm install`
